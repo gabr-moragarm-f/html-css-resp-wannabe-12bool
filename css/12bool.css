@@ -74,7 +74,7 @@
   width: calc((100% / 12) * 1);
 }
 
-/* LG */
+/* /LG */
 
 /* MD */
 @media screen and (max-width: 991px) {
@@ -126,7 +126,7 @@
     width: calc((100% / 12) * 1);
   }
 }
-/* MD */
+/* /MD */
 
 /* XS */
 @media screen and (max-width: 767px) {
@@ -178,7 +178,7 @@
     width: calc((100% / 12) * 1);
   }
 }
-/* XS */
+/* /XS */
 
 
 /* OFFSET DEFINITIONS */
